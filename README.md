@@ -23,13 +23,18 @@ Enter your password and see the result!
 **Weak password (hello):**
 
 ✗ Too short (needs 8+ characters)
+
 ✗ No uppercase letter
+
 ✓ Has lowercase letter
+
 ✗ No number
+
 ✗ No special character
+
 RESULT: WEAK PASSWORD ✗
 
-text
+
 
 **Strong password (Hello@123!):**
 ✓ Good length (8+ characters)
